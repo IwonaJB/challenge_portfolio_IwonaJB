@@ -14,7 +14,7 @@ brzmi: **żeby zdobyć praktyczne doświadczenie i zostać testerką manualną n
 Postanowiłam w końcu wykorzystać moje *naturalne predyspozycje*. Większość ludzi z mojego otoczenia skupia się na pozytywach, ja całe życie **poszukuję problemów lub potencjalnych niebezpieczeństw**. Postanowiłam, że pora już by mój charakter i przyszły zawód współgrały!
 
 
-Mój cel?
+|-Mój cel?
 * zrealizowanie wszystkich zadań praktycznych,
 * zrealizowanie dodatkowych projektów,
 * zdobycie stażu,
@@ -25,4 +25,4 @@ Moje oczekiwania od QA Challenge?
 * cenne rady od Mentorek,
 * opanowanie Jiry,
 * nauka dobrego planowania, przeprowadzania testów, opisywania błędów - pełen pakiet,
-* jeszcze więcej praktyki podczas testowania stron i aplikacji.
+* jeszcze więcej praktyki podczas testowania stron i aplikacji.-|
