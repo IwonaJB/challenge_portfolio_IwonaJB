@@ -18,11 +18,12 @@ Postanowiłam w końcu wykorzystać moje *naturalne predyspozycje*. Większość
 * zrealizowanie wszystkich zadań praktycznych,
 * zrealizowanie dodatkowych projektów,
 * zdobycie stażu,
-* zdobycie pracy jako Testerka Manualna.
+* zdobycie pracy jako Testerka Manualna.-|
+
 
 Moje oczekiwania od QA Challenge?
 * praktyka, praktyka i jeszcze raz praktyka,
 * cenne rady od Mentorek,
 * opanowanie Jiry,
 * nauka dobrego planowania, przeprowadzania testów, opisywania błędów - pełen pakiet,
-* jeszcze więcej praktyki podczas testowania stron i aplikacji.-|
+* jeszcze więcej praktyki podczas testowania stron i aplikacji.
