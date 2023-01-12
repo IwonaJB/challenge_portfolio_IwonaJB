@@ -14,11 +14,11 @@ brzmi: **żeby zdobyć praktyczne doświadczenie i zostać testerką manualną n
 Postanowiłam w końcu wykorzystać moje *naturalne predyspozycje*. Większość ludzi z mojego otoczenia skupia się na pozytywach, ja całe życie **poszukuję problemów lub potencjalnych niebezpieczeństw**. Postanowiłam, że pora już by mój charakter i przyszły zawód współgrały!
 
 
-|-Mój cel?
+Mój cel?
 * zrealizowanie wszystkich zadań praktycznych,
 * zrealizowanie dodatkowych projektów,
 * zdobycie stażu,
-* zdobycie pracy jako Testerka Manualna.-|
+* zdobycie pracy jako Testerka Manualna.
 
 
 Moje oczekiwania od QA Challenge?
