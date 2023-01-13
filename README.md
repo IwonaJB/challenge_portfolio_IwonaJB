@@ -6,7 +6,7 @@ This is my portfolio based on Dare IT challenge for Manual Testers.
 10 punktów
 
 ## Subtask 3
-Cześć! Nazywam się <font color="Red">Iwona</font>, a odpowiedź na pytanie
+<font color="Red">Cześć! Nazywam się Iwona, a odpowiedź na pytanie</font>
 >Dlaczego zdecydował_ś się na udział w challenge portfolio?
 
 brzmi: **żeby zdobyć praktyczne doświadczenie i zostać testerką manualną na pełen etat!**
