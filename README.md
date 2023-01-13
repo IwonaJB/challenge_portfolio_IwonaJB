@@ -11,7 +11,9 @@ Cześć! Nazywam się Iwona, a odpowiedź na pytanie
 
 brzmi: **żeby zdobyć praktyczne doświadczenie i zostać testerką manualną na pełen etat!**
 
+<p align="justify">
 Postanowiłam w końcu wykorzystać moje *naturalne predyspozycje*. Większość ludzi z mojego otoczenia skupia się na pozytywach, ja całe życie **poszukuję problemów lub potencjalnych niebezpieczeństw**. Postanowiłam, że pora już by mój charakter i przyszły zawód współgrały!
+</p>
 
 
 Mój cel?
