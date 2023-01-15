@@ -23,7 +23,7 @@ Dlaczego zdecydował_ś się na udział w challenge portfolio?
 </p>
 
 
-<p>Mój cel?</p>
+<p style="color:red">Mój cel?</p>
 <ul>
 <li> zrealizowanie wszystkich zadań praktycznych,</li>
 <li> zrealizowanie dodatkowych projektów,</li>
