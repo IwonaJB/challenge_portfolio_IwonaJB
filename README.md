@@ -1,5 +1,3 @@
-```html
-
 <html>
 <body>
 
@@ -46,5 +44,3 @@ Dlaczego zdecydował_ś się na udział w challenge portfolio?
 </body>
 </html>
 
-
-```
