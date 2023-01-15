@@ -46,7 +46,7 @@ Dlaczego zdecydował_ś się na udział w challenge portfolio?
 <p>Funkcjonalności aplikacji:
 <ul>
 <li>logowanie,</li>
-<li>wylogowanie,<li>
+<li>wylogowanie,</li>
 <li>dodanie gracza (karta danych),</li>
 <li>edycja gracza,</li>
 <li>utworzenie meczu,</li>
