@@ -9,7 +9,9 @@
 <p>10 punktów</p>
 
 <h2> Subtask 3</h2>
-  <p>Cześć! Nazywam się <span style="color:red;">Iwona</span>, a odpowiedź na pytanie<br>
+  <p>Cześć! Nazywam się 
+  <span style="color:red;">Iwona</span>
+  , a odpowiedź na pytanie<br></p?
 <blockquote cite="Pati">
 Dlaczego zdecydował_ś się na udział w challenge portfolio?
 </blockquote>
