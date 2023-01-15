@@ -9,12 +9,12 @@
 <p>10 punktów</p>
 
 <h2> Subtask 3</h2>
-  <p>Cześć! Nazywam się Iwona, a odpowiedź na pytanie<br></p>
+  <p>Cześć! Nazywam się <span color=red>Iwona</span>, a odpowiedź na pytanie<br></p>
 <blockquote cite="Pati">
 Dlaczego zdecydował_ś się na udział w challenge portfolio?
 </blockquote>
 
-<p>brzmi: <b>żeby zdobyć praktyczne doświadczenie i zostać testerką manualną na pełen etat!</b>
+  <p>brzmi: <b>żeby zdobyć praktyczne doświadczenie i zostać testerką manualną na pełen etat!</b></p>
 
 <p align="justify">
   Postanowiłam w końcu wykorzystać moje <i>naturalne predyspozycje</i>. Większość ludzi z mojego otoczenia skupia się na pozytywach, ja całe życie <b>poszukuję problemów lub potencjalnych niebezpieczeństw</b>. Postanowiłam, że pora już by mój charakter i przyszły zawód współgrały!
