@@ -82,7 +82,7 @@ Dlaczego zdecydował_ś się na udział w challenge portfolio?
 <p id="zas"><b>Funkcjonalności - zastosowanie</p></b>
 <p align="justify">Funkcjonalności <span style="color:red;"><b>logowanie,wylogowanie</span></b>
 służą do wejścia na platformę na konto użytkownika (logowanie) i wyjścia z platformy (wylogowanie).</p>
-<p align="justify">Funkcjonalność<b>przypomnij hasło</b> służy do przesłania na zarejestrowany w bazie adres e-mail alternatywnego sposobu logowania w momencie gdy użytkownik zapomniał hasła.</p>
+<p align="justify">Funkcjonalność <b>przypomnij hasło</b> służy do przesłania na zarejestrowany w bazie adres e-mail alternatywnego sposobu logowania w momencie gdy użytkownik zapomniał hasła.</p>
 <p align="justify">Funkcjonalności <span style=:color:red;><b>dodanie gracza, edycja gracza</span></b>
 służą do założenia karty zawodnika (dodanie gracza) lub edycji tej karty (edycja gracza). W karcie danych zawodnika można zamieścić następujące informacje: e-mail, imię, nazwisko, telefon, waga, wzrost, data urodzenia, dominująca noga, klub, poziom rozgrywek, główna pozycja, pozycja alternatywna, wojewódźtwo, osiągnięcia, języki jakimi mówi zawodnik oraz linki do stron łączy nas piłka, 90 minut, profil facebook oraz linki do serwisu youtube.</p>
 <p align="justify">Funkcjonalności <span style="color:red;"><b>utworzenie meczu, aktualizacja meczu</span></b>
