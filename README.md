@@ -57,6 +57,7 @@ Dlaczego zdecydował_ś się na udział w challenge portfolio?
 <ul>
 <li>logowanie,</li>
 <li>wylogowanie,</li>
+  <li>przypomnienie hasła,</li>
 <li>dodanie gracza (karta danych),</li>
 <li>edycja gracza,</li>
 <li>utworzenie meczu,</li>
