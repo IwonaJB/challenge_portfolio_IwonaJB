@@ -41,7 +41,7 @@ Dlaczego zdecydował_ś się na udział w challenge portfolio?
 </ul>
 
 <h2>Subtask 4</h2>
-<p align="justify">Platforma <b>Futbol Kolektyw</b> pozwala na utworzenie profili zawodników, oznaczanie ich aktywności podczas rozegranych meczy, a w rezultacie w przejrzysty sposób ocenić umiejętności gracza. Zgromadzone dane mogą pomóc łowcom talentów wyselekcjonować zawodników w których warto zainwestować.</p>
+<p align="justify">Platforma <b>Futbol Kolektyw</b> pozwala na utworzenie profili zawodników, oznaczanie ich aktywności podczas rozegranych meczy, a w rezultacie w przejrzysty sposób ocenienie umiejętności gracza. Zgromadzone dane mogą pomóc łowcom talentów wyselekcjonować zawodników w których warto zainwestować.</p>
 
 <p><b>Funkcjonalności aplikacji:</p></b>
 <ul>
@@ -69,38 +69,38 @@ Dlaczego zdecydował_ś się na udział w challenge portfolio?
 </ul>
 
 <p><b>Funkcjonalności - zastosowanie</p></b>
-<p>Funkcjonalności <span style="color:red;"><b>logowanie,wylogowanie</span></b>
+<p align="justify">Funkcjonalności <span style="color:red;"><b>logowanie,wylogowanie</span></b>
 służą do wejścia na platformę na konto użytkownika (logowanie) i wyjścia z platformy (wylogowanie).</p>
-<p>Funkcjonalności <span style=:color:red;><b>dodanie gracza, edycja gracza</span></b>
+<p align="justify">Funkcjonalności <span style=:color:red;><b>dodanie gracza, edycja gracza</span></b>
 służą do założenia karty zawodnika (dodanie gracza) lub edycji tej karty (edycja gracza). W karcie danych zawodnika można zamieścić następujące informacje: e-mail, imię, nazwisko, telefon, waga, wzrost, data urodzenia, dominująca noga, klub, poziom rozgrywek, główna pozycja, pozycja alternatywna, wojewódźtwo, osiągnięcia, języki jakimi mówi zawodnik oraz linki do stron łączy nas piłka, 90 minut, profil facebook oraz linki do serwisu youtube.</p>
-<p>Funkcjonalności <span style="color:red;"><b>utworzenie meczu, aktualizacja meczu</span></b>
+<p align="justify">Funkcjonalności <span style="color:red;"><b>utworzenie meczu, aktualizacja meczu</span></b>
 pozwalają na wprowadzenie informacji o nazwie drużyny zawodnika, nazwie drużyny przeciwnej, zdobytych golach, straconych golach, dacie spotkania, informacji czy był to mecz domowy czy wyjazdowy, kolorze koszulki, lidze, czasie gry, numerze na koszulce, informacji web match, informacji ogólnych (general) oraz recenzji.<br>
 Dodatkowo do karty meczu pobrane zostają informacje dodane podczas tworzenia raportu wizualnego (lista zdarzeń).</p>
-<p>Funkcjonalności <span style="color:red;"><b>tworzenie raportu wizualnego, edycja raportu wizualnego</span></b>
+<p align="justify">Funkcjonalności <span style="color:red;"><b>tworzenie raportu wizualnego, edycja raportu wizualnego</span></b>
 umożliwia w czasie rzeczywistym dodawanie sytuacji które wydarzyły się na boisku, z zaznaczeniem miejsca w którym się wydarzyły. Po kliknięciu na odpowiednie miejsce boiska, gdzie doszło do zdarzenia, istnieje możliwość wyboru spośród 9 opcji: strzały, podania krótkie, podania długie, dośrodkowania, pojedynki 1 na 1, strata, faul, odbiór, inne. Po wybraniu odpowiedniego zdarzenia użytkownik ma możliwość doprecyzowania zdarzenia (poprzez zaznaczenie odpowiednich przycisków lub dodanei komentarza).</p>
-<p>Funkcjonalności <span style="color:red;"><b>tworzenie raportu, edycja raportu</span></b>
+<p align="justify">Funkcjonalności <span style="color:red;"><b>tworzenie raportu, edycja raportu</span></b>
 generuje raport w którym użytkownik ma możliwość dodania opisów poszczególnych sekcji takich jak: wstęp (system grania drużyn w meczu, czas gry poszczególnych zawodników), inteligencja boiskowa, mentalność i podsumowanie, oraz wystawienie ogólnej recenzji w postaci zaznaczenia ilości gwiazdek (na pięć możliwych, z dokładnością do pół gwiazdki). Dodatkowo raport składa się z zestawienia danych statystycznych wygenerowanych na podstawie raportu wizualnego, oraz możliwości dodania opisu zagrań niekonwencjonalnych.</p>
-<p>Funkcjonalności <span style="color:red;"><b>funkcje edytowania tekstu w raporcie</span></b>
+<p align="justify">Funkcjonalności <span style="color:red;"><b>funkcje edytowania tekstu w raporcie</span></b>
 pozwalają na wykorzystanie narzędzi edycji tekstu w miejscach przeznaczonych do edycji przez użytkownika. Są to funkcje: cofnij, powtórz, pogrubienie, pochylenie, podkreślenie, oznaczenie jako kod, dwa typy nagłówków, cytat, lista numeryczna, lista punktorów, rozmiar czcionki.</p>
-<p> Funkcja <span style="color:red;"><b>wyczyść</span></b>
+<p align="justify"> Funkcja <span style="color:red;"><b>wyczyść</span></b>
 pozwala na usunięcie świeżo wprowadzonych w formularzu zmian.</p>
-<p>Funkcjonalność <span style="color:red;"><b>aktywność</span></b>
+<p align="justify">Funkcjonalność <span style="color:red;"><b>aktywność</span></b>
 umożliwia łatwy dostęp (ze strony głównej) do ostatnio utworzonego gracza lub meczu oraz do ostatnio zaaktualizowanego gracza, meczu lub raportu poprzez przekierowanie do odpowiedniej karty gracza, meczu lub raportu.</p>
-<p>Funkcja <span style="color:red;"><b>linki pomocnicze</span></b>
+<p align="justify">Funkcja <span style="color:red;"><b>linki pomocnicze</span></b>
 pozwala na skorzystanie z przekierowania do często używanych stron (w tym przypadku do strony dodania nowego gracza do bazy)</p>
-<p>Funkcja <span style="color:red;"><b>wyszukiwania</span></b>
+<p align="justify">Funkcja <span style="color:red;"><b>wyszukiwania</span></b>
 umożliwia przeszukanie wszystkich dostępnych danych na temat graczy w celu wykrycia danej frazy lub fragmentu frazy.</p>
-<p>Funkcja <span style="color:red;"><b>sortowanie</span></b>
+<p align="justify">Funkcja <span style="color:red;"><b>sortowanie</span></b>
 umożliwia wybranie wyświetlenia w tabeli danych graczy. Użytkownik ma mozliwość wyboru: imienia, nazwiska, wieku, pozycji, klubu, recenzji, liczby meczów i liczby raportów.</p>
-<p>Funkcja <span style="color:red;"><b>drukowanie</span></b>
+<p align="justify">Funkcja <span style="color:red;"><b>drukowanie</span></b>
 umożliwia wydruk obecnie widocznej listy graczy wraz z ich informacjami.</p>
-<p>Funkcja <span style="color:red;"><b>pobieranie pliku CSV</span></b>
+<p align="justify">Funkcja <span style="color:red;"><b>pobieranie pliku CSV</span></b>
 pozwala na pobranie pliku o rozszerzeniu CSV.</p>
-<p>Funkcja <span style="color:red;"><b>zmiana języka</span></b>
+<p align="justify">Funkcja <span style="color:red;"><b>zmiana języka</span></b>
 pozwala na wybór języka platformy między językiem polskim i angielskim.</p>
-<p>Funkcja <span style="color:red;"><b>zliczanie danych</span></b>
+<p align="justify">Funkcja <span style="color:red;"><b>zliczanie danych</span></b>
 pozwala użytkownikowi na szybki podgląd ilości zgromadzonych danych: ilości wprowadzonych graczy, meczy, raportów i akcji.</p>
-<p>Funkcja <span style="color:red;"><b>kontakt z teamem developerskim</span></b>
+<p align="justify">Funkcja <span style="color:red;"><b>kontakt z teamem developerskim</span></b>
 powoduje przejście na platformę komunikacyjną slack, na której możliwy jest kontakt z zespołem informatykó odpowiadających za utworzenie platformy.</p>
 
 <p><b>Ocena intuicyjności</p></b>
