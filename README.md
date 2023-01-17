@@ -4,7 +4,7 @@
 <h1> challenge_portfolio_IwonaJB</h1>
 <p>This is my portfolio based on Dare IT challenge for Manual Testers.</p>
 
-<p>Spis treści</p>
+<p><b>Spis treści</p><b>
 <a href="#sub1">Subtask 1</a><br>
 <a href="#sub3">Subtask 3</a><br>
 <a href="#sub4">Subtask 4</a><br>
