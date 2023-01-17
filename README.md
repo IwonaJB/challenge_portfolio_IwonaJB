@@ -4,11 +4,16 @@
 <h1> challenge_portfolio_IwonaJB</h1>
 <p>This is my portfolio based on Dare IT challenge for Manual Testers.</p>
 
+<p>Spis treści</p>
+<a href="#sub1">Subtask 1</a>
+<a href="#sub3">Subtask 3</a>
+<a href="#sub4">Subtask 4</a>
+
 <h1> TASK 1</h1>
-<h2> Subtask 1</h2>
+<h2 id="sub1"> Subtask 1</h2>
 <p>10 punktów</p>
 
-<h2> Subtask 3</h2>
+<h2 id="sub3"> Subtask 3</h2>
 <p>Cześć! Nazywam się <span style="color:red;">Iwona</span>
 , a odpowiedź na pytanie<br></p>
 <blockquote cite="Pati">
@@ -40,7 +45,7 @@ Dlaczego zdecydował_ś się na udział w challenge portfolio?
 <li> jeszcze więcej praktyki podczas testowania stron i aplikacji.</li>
 </ul>
 
-<h2>Subtask 4</h2>
+<h2 id="sub4">Subtask 4</h2>
 <p align="justify">Platforma <b>Futbol Kolektyw</b> pozwala na utworzenie profili zawodników, oznaczanie ich aktywności podczas rozegranych meczy, a w rezultacie w przejrzysty sposób ocenienie umiejętności gracza. Zgromadzone dane mogą pomóc łowcom talentów wyselekcjonować zawodników w których warto zainwestować.</p>
 
 <p><b>Funkcjonalności aplikacji:</p></b>
