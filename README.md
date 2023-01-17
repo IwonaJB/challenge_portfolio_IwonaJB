@@ -4,7 +4,7 @@
 <h1> challenge_portfolio_IwonaJB</h1>
 <p>This is my portfolio based on Dare IT challenge for Manual Testers.</p>
 
-<p><b>Spis treści</p><b>
+<p><b>Spis treści</p></b>
 <a href="#sub1">Subtask 1</a><br>
 <a href="#sub3">Subtask 3</a><br>
 <a href="#sub4">Subtask 4</a><br>
@@ -19,7 +19,7 @@
 <p>10 punktów</p>
 
 <h2 id="sub3"> Subtask 3</h2>
-<p>Cześć! Nazywam się <span style="color:red;">Iwona</span>
+  <p>Cześć! Nazywam się <span style="color:red;"><b>Iwona</span></b>
 , a odpowiedź na pytanie<br></p>
 <blockquote cite="Pati">
 Dlaczego zdecydował_ś się na udział w challenge portfolio?
