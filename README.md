@@ -4,11 +4,16 @@
 <h1> challenge_portfolio_IwonaJB</h1>
 <p>This is my portfolio based on Dare IT challenge for Manual Testers.</p>
 
+<p>Spis treści</p>
+<a href="user-content--subtask-1">Subtask 1</a>
+<a href="user-content--subtask-3">Subtask 3</a>
+<a href="user-content--subtask-4">Subtask 4</a>
+
 <h1> TASK 1</h1>
-<h2> Subtask 1</h2>
+<h2 id="sub1"> Subtask 1</h2>
 <p>10 punktów</p>
 
-<h2> Subtask 3</h2>
+<h2 id="sub3"> Subtask 3</h2>
 <p>Cześć! Nazywam się <span style="color:red;">Iwona</span>
 , a odpowiedź na pytanie<br></p>
 <blockquote cite="Pati">
@@ -40,7 +45,7 @@ Dlaczego zdecydował_ś się na udział w challenge portfolio?
 <li> jeszcze więcej praktyki podczas testowania stron i aplikacji.</li>
 </ul>
 
-<h2>Subtask 4</h2>
+<h2 id="sub4">Subtask 4</h2>
 <p>Platforma Futbol Kolektyw pozwala na utworzenie profili zawodników oraz oznaczanie ich aktywności podczas rozegranych meczy. Pozwala w przejrzysty sposób ocenić umiejętności gracza. Zgromadzone dane mogą pomóc łowcom talentów wyselekcjonować zawodników w których warto zainwestować.</p>
 
 <p>Funkcjonalności aplikacji:
@@ -103,12 +108,12 @@ pozwala użytkownikowi na szybki podgląd ilości zgromadzonych danych: ilości 
 powoduje przejście na platformę komunikacyjną slack, na której możliwy jest kontakt z zespołem informatykó odpowiadających za utworzenie platformy.</p>
 
 <p>Ocena intuicyjności</p>
-<p>Ogólną intuicyjność platformy oceniam dobrze. Strona główna jest przejrzysta i czytelna, wyświetlanie ostatnich aktywności uważam za bardzo pomocne. Umiejscowienie opcji dodania gracza na środku wyświetlanego ekranu uważam za dobrą decyzję z racji iż jest to kluczowa funkcja dla platformy. Przyciski umożliwiające dodatkowe funkcje (np. drukowanie) są czytelne. W większości przypadków użytkownik nie będzie miał problemu z wybraniem odpowidniej ikony, ponieważ większość z nich po najechaniu kursorem wyświetli podpis dodatkowo wyjaśniający swoją funkcję. Niestety nie występuje to we wszystkich przypadkach.<br>
-Z punktu widzenia intuicyjności platformy proponuję następujące zmiany:</p>
+<p>Ogólną intuicyjność platformy oceniam dobrze. Strona główna jest przejrzysta i czytelna, wyświetlanie ostatnich aktywności uważam za bardzo pomocne. Umiejscowienie opcji dodania gracza na środku wyświetlanego ekranu uważam za dobrą decyzję z racji, iż jest to kluczowa funkcja dla platformy. Przyciski umożliwiające dodatkowe funkcje (np. drukowanie) są czytelne. W większości przypadków użytkownik nie będzie miał problemu z wybraniem odpowidniej ikony, ponieważ większość z nich po najechaniu kursorem wyświetli podpis dodatkowo wyjaśniający swoją funkcję. Niestety nie występuje to we wszystkich przypadkach.</p>
+<p>Z punktu widzenia intuicyjności platformy proponuję następujące zmiany:</p>
 <ul>
 <li>podczas tworzenia wizualnego raportu ikony widoczne nad boiskiem nie są w żaden sposób opisane (po najechaniu kursorem nie pokazuje się podpis funkcji) - dobrym pomysłem będzie dodanie podpisów by poprawić zrozumienie poszczególnych funkcji,</li>
 <li>na stronie głównej w oknie aktywności nie wyświetla się informacja na temat ostatnio stworzonego raportu (jedynie informacja o ostatnio aktualizowanych raportach),</li>
-<li>podczas sortowania wyświetlanych informacji o graczach nie ma znaczenia kolejność zaznaczanych i odznaczanych opcji - możliwość wyboru kolejności wyświetlanych danych w tabeli może okazać się przydatne,</li>
+<li>podczas sortowania wyświetlanych informacji o graczach nie ma znaczenia kolejność zaznaczanych i odznaczanych opcji - możliwość wyboru kolejności wyświetlanych danych w tabeli może okazać się przydatna,</li>
 <li>po wejściu w zakładkę gracze (wyświetla się tabela z danymi graczy) brak przycisku <i>dodaj nowego gracza</i> - byłaby to przydatna funkcja, tym bardziej, że dodanie gracza możliwe jest tylko z zakładki <i>linki pomocnicze</i>,</li>
 <li>podczas tworzenia i edycji raportu wizualnego nie ma możliwości przewijania czasu meczu - funkcja przewijania czasu może być bardzo przydatka podczas rozgrywek,</li>
 <li>w spisie meczy zawodnika nie ma rozdzielenia opisu ikony tworzenia raportu wizualnego na przed i po podjęciu działań - zarówno raport w którym nie zaznaczono działań na boisku, jak i raport który ma zaznaczone działania mają wyświetlaną tą samą ikonę po najechaniu na którą wyświetla się podpis <i>rozpocznij mecz</i> co jest dość mylące dla użytkownika,</li>
@@ -120,4 +125,3 @@ Z punktu widzenia intuicyjności platformy proponuję następujące zmiany:</p>
 
 </body>
 </html>
-
