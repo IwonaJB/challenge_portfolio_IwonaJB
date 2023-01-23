@@ -14,7 +14,7 @@
 <a href="#fejs">Ocena interfejsu</a><br>
 <a href="#blad">Znalezione błędy</a><br>
 <a href="#2sub3">Task 2, Subtask 3</a><br>
-<a href="2sub1i3">Task 2, Subtask 1 i 3</a><br>
+<a href="#2sub1i3">Task 2, Subtask 1 i 3</a><br>
 
 <h1> TASK 1</h1>
 <h2 id="sub1"> Subtask 1</h2>
