@@ -5,14 +5,15 @@
 <p>This is my portfolio based on Dare IT challenge for Manual Testers.</p>
 
 <p><b>Spis treści</p></b>
-<a href="#sub1">Subtask 1</a><br>
-<a href="#sub3">Subtask 3</a><br>
-<a href="#sub4">Subtask 4</a><br>
+<a href="#sub1">Task 1, Subtask 1</a><br>
+<a href="#sub3">Task 1, Subtask 3</a><br>
+<a href="#sub4">Task 1, Subtask 4</a><br>
 <a href="#fun">Funkcjonalności</a><br>
 <a href="#zas">Funkcjonalności - zastosowanie</a><br>
 <a href="#intu">Ocena intuicyjności</a><br>
 <a href="#fejs">Ocena interfejsu</a><br>
 <a href="#blad">Znalezione błędy</a><br>
+<a href="#2sub3">Task 2, Subtask 3</a><br>
 
 <h1> TASK 1</h1>
 <h2 id="sub1"> Subtask 1</h2>
@@ -177,6 +178,12 @@ powoduje przejście na platformę komunikacyjną slack, na której możliwy jest
 <li>podczas testowania przy wolnym połączeniu ("Slow 3G") problemy z czasem połączenia (DevTools wyświetlają komunikat ERR:TIMED_OUT),</li>
 <li>podczas dodawania/edycji gracza pola w które można podać linki http do odpowiednich serwisów (np. Youtube, Facebook) nie wykrywają gdy wpisze się w nie inne wartości (dowolne znaki) - wskazane jest dodać ograniczenie umożliwiające na dodawanie linków tylko z konkretnego oznaczonego serwisu.
 </ul>
+
+<h1>TASK 2</h1>
+<h2 id="2sub3>Subtask 3</h2>
+<p><b>Po co piszemy Test Case'y?</p></b>
+<p align="justify"><b>Test Case'y (przypadki testowe)</b> piszemy, aby w możliwie najbardziej dokładny i przejrzysty sposób udokumentować różnorodne możliwości obsłużenia modułów adnej aplikacji. Szczególnie istotne jest to przy projektach w których dany przypadek testowy wykonywany jest wielokrotnie. Dzięki wykorzystaniu przypadków testowych mamy możliwość upewnić się, że nie pominęliśmy żadnej ważnej funkcjonalności, możemy na nich opierać raporty z wykonanych testów, natomiast dla nowych pracowników stanowią one doskonałe źródło wiedzy o produkcie.</p>
+
 
 </body>
 </html>
