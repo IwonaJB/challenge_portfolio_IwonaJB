@@ -13,8 +13,11 @@
 <a href="#intu">Ocena intuicyjności</a><br>
 <a href="#fejs">Ocena interfejsu</a><br>
 <a href="#blad">Znalezione błędy</a><br>
+<a href="#2sub1">Task 2, Subtask 1</a><br>
+<a href="#2sub2">Task 2, Subtask 2</a><br>
 <a href="#2sub3">Task 2, Subtask 3</a><br>
-<a href="#2sub1i3">Task 2, Subtask 1 i 3</a><br>
+<a href="#2sub4">Task 2, Subtask 4</a><br>
+
 
 <h1> TASK 1</h1>
 <h2 id="sub1"> Subtask 1</h2>
@@ -181,13 +184,21 @@ powoduje przejście na platformę komunikacyjną slack, na której możliwy jest
 </ul>
 
 <h1>TASK 2</h1>
+<h2 id="2sub1">Subtask 1</h2>
+<p>Poniżej link do folderu zawierającego przypadki testowe przygotowane dla Futbol Kolektyw na podstawie historyjek użytkownika.</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1Ru3qecPZnvp0DMSxx0R5lsc-SRJ0GVErEJmRk2GvdG8/edit?usp=sharing/"> Task 2, Subtask 1</a></p>
+
+<h2 id="2sub2">Subtask 2</h2>
+<p>Poniżej link do folderu zawierającego przypadki testowe przygotowane dla Futbol Kolektyw.</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1nKjLz-g_rhwLrP2MOm4c9DqvHeCm1sPaUWxQ4Zz4WfA/edit?usp=sharing/"> Task 2, Subtask 2</a></p>
+
 <h2 id="2sub3">Subtask 3</h2>
 <p><b>Po co piszemy Test Case'y?</p></b>
 <p align="justify"><b>Test Case'y (przypadki testowe)</b> piszemy, aby w możliwie najbardziej dokładny i przejrzysty sposób udokumentować różnorodne możliwości obsłużenia modułów danej aplikacji. Szczególnie istotne jest to przy projektach w których dany przypadek testowy wykonywany jest wielokrotnie. Dzięki wykorzystaniu przypadków testowych mamy możliwość upewnienia się, że nie pominęliśmy żadnej ważnej funkcjonalności, a także możemy na nich opierać raporty z wykonanych testów, natomiast dla nowych pracowników stanowią one doskonałe źródło wiedzy o produkcie.</p>
 
-<h2 id="2sub1i3">Subtask 1 i 3</h2>
-<p>Poniżej link do folderu zawierającego przypadki testowe przygotowane dla Futbol Kolektyw.</p?
-<p><a href="https://drive.google.com/drive/folders/1sVa6eGmRccGeRME9F8_IPeDWKi6ZpmLH?usp=sharing/"> Folder Task 2</a></p>
+<h2 id="2sub4">Subtask 4</h2>
+<p>Poniżej link do folderu zawierającego przypadki testowe przygotowane dla aplikacji Pick Eat Up.</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1xP6OL_Vkr_Ni7DKIzA1aXGTAKYbaOh4yYyh0OSe_e8k/edit?usp=sharing/"> Task 2, Subtask 4</a></p>
 
 
 </body>
