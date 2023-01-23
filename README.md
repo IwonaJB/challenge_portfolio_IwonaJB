@@ -187,7 +187,7 @@ powoduje przejście na platformę komunikacyjną slack, na której możliwy jest
 
 <h2 id="2sub1i3">Subtask 1 i 3</h2>
 <p>Poniżej link do folderu zawierającego przypadki testowe przygotowane dla Futbol Kolektyw.</p?
-<a href="https://drive.google.com/drive/folders/1sVa6eGmRccGeRME9F8_IPeDWKi6ZpmLH?usp=sharing">Folder Task 2</a>
+<a href="https://drive.google.com/drive/folders/1sVa6eGmRccGeRME9F8_IPeDWKi6ZpmLH?usp=sharing/">Folder Task 2</a>
 
 
 </body>
