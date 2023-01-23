@@ -180,7 +180,7 @@ powoduje przejście na platformę komunikacyjną slack, na której możliwy jest
 </ul>
 
 <h1>TASK 2</h1>
-<h2 id="2sub3>Subtask 3</h2>
+<h2 id="2sub3">Subtask 3</h2>
 <p><b>Po co piszemy Test Case'y?</p></b>
 <p align="justify"><b>Test Case'y (przypadki testowe)</b> piszemy, aby w możliwie najbardziej dokładny i przejrzysty sposób udokumentować różnorodne możliwości obsłużenia modułów adnej aplikacji. Szczególnie istotne jest to przy projektach w których dany przypadek testowy wykonywany jest wielokrotnie. Dzięki wykorzystaniu przypadków testowych mamy możliwość upewnić się, że nie pominęliśmy żadnej ważnej funkcjonalności, możemy na nich opierać raporty z wykonanych testów, natomiast dla nowych pracowników stanowią one doskonałe źródło wiedzy o produkcie.</p>
 
