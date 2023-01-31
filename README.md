@@ -213,7 +213,7 @@ powoduje przejście na platformę komunikacyjną slack, na której możliwy jest
 <p><a href="https://docs.google.com/spreadsheets/d/1Ru3qecPZnvp0DMSxx0R5lsc-SRJ0GVErEJmRk2GvdG8/edit?usp=share_link/"> Task 3, Subtask 2 cz. 1</a></p>
 <p><a href="https://docs.google.com/spreadsheets/d/1nKjLz-g_rhwLrP2MOm4c9DqvHeCm1sPaUWxQ4Zz4WfA/edit?usp=share_link/"> Task 3, Subtask 2 cz. 2</a></p>
 
-<h2 id="3sub3">Subtask 1</h2>
+<h2 id="3sub3">Subtask 3</h2>
 <p>Poniżej znajduje się link do raportu z przeprowadzonych testów.</p>
 <p><a href="https://docs.google.com/document/d/1WNEOv0CW_6bvpibhSyLCc06Yaz97DF9rhgn-2n_ft1I/edit?usp=sharing/"> Task 3, Subtask 3</a></p>
 
