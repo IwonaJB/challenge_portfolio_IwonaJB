@@ -17,6 +17,9 @@
 <a href="#2sub2">Task 2, Subtask 2</a><br>
 <a href="#2sub3">Task 2, Subtask 3</a><br>
 <a href="#2sub4">Task 2, Subtask 4</a><br>
+<a href="#3sub1">Task 3, Subtask 1</a><br>
+<a href="#3sub2">Task 3, Subtask 2</a><br>
+<a href="#3sub3">Task 3, Subtask 3</a><br>
 
 
 <h1> TASK 1</h1>
@@ -200,6 +203,19 @@ powoduje przejście na platformę komunikacyjną slack, na której możliwy jest
 <p>Poniżej link do folderu zawierającego przypadki testowe przygotowane dla aplikacji Pick Eat Up.</p>
 <p><a href="https://docs.google.com/spreadsheets/d/1xP6OL_Vkr_Ni7DKIzA1aXGTAKYbaOh4yYyh0OSe_e8k/edit?usp=sharing/"> Task 2, Subtask 4</a></p>
 
+<h1>TASK 3</h1>
+<h2 id="3sub1">Subtask 1</h2>
+<p>Poniżej znajduje się link do formatki do zgłaszania błędów, wraz z wypełnionymi zgłoszeniami błędów znalezionych podczas przeprowadzenia przypadków testowych</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1l087wncJWLLnWE_pqZog_4rNZVt_KRL3eU3lW4n8byA/edit?usp=sharing/"> Task 3, Subtask 1</a></p>
+
+<h2 id="3sub2">Subtask 2</h2>
+<p>Poniżej znajduje się link do wcześniej utworzonych przypadków testowych, już po przeprowadzeniu testów.</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1Ru3qecPZnvp0DMSxx0R5lsc-SRJ0GVErEJmRk2GvdG8/edit?usp=share_link/"> Task 3, Subtask 2 cz. 1</a></p>
+<p><a href="https://docs.google.com/spreadsheets/d/1nKjLz-g_rhwLrP2MOm4c9DqvHeCm1sPaUWxQ4Zz4WfA/edit?usp=share_link/"> Task 3, Subtask 2 cz. 2</a></p>
+
+<h2 id="3sub3">Subtask 1</h2>
+<p>Poniżej znajduje się link do raportu z przeprowadzonych testów.</p>
+<p><a href="https://docs.google.com/document/d/1WNEOv0CW_6bvpibhSyLCc06Yaz97DF9rhgn-2n_ft1I/edit?usp=sharing/"> Task 3, Subtask 3</a></p>
 
 </body>
 </html>
