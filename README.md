@@ -361,37 +361,37 @@ Jakie dostrzegasz różnice między testowaniem aplikacji internetowej, a natywn
 
 <p><b>BugID: DIT-4</p></b>
 <p><a href="https://drive.google.com/file/d/15H0ZqCSyGn34a3lnvone6ZrqxqRDzPUj/view?usp=share_link/"> Załącznik do błędu DIT-4</a></p>
-<img src="C:/Users/hp/Desktop/tester/dare-it/7-tygodni-wyzwanie/4-olx/swipeto/BUGs-Jira/DIT4.PNG" style="width:752px;height:733px;">
+<img src="DIT4.PNG" style="width:752px;height:733px;">
 
 <p><b>BugID: DIT-5</p></b>
 <p><a href="https://drive.google.com/file/d/1ya_0lh76SWFwZq71fpnN1LRTAJowiNwq/view?usp=share_link/"> Załącznik do błędu DIT-5</a></p>
-<img src="C:/Users/hp/Desktop/tester/dare-it/7-tygodni-wyzwanie/4-olx/swipeto/BUGs-Jira/DIT5.PNG" style="width:763px;height:741px;">
+<img src="DIT5.PNG" style="width:763px;height:741px;">
 
 <p><b>BugID: DIT-6</p></b>
 <p><a href="https://drive.google.com/file/d/1cF1EbQD3XzGHiX9gZt1sftbjmIwXFzsc/view?usp=share_link/"> Załącznik do błędu DIT-6</a></p>
-<img src="C:/Users/hp/Desktop/tester/dare-it/7-tygodni-wyzwanie/4-olx/swipeto/BUGs-Jira/DIT6.PNG" style="width:746px;height:731px;">
+<img src="DIT6.PNG" style="width:746px;height:731px;">
 
 <p><b>BugID: DIT-7</p></b>
 <p><a href="https://drive.google.com/file/d/10jeYPtJ1FFP2-330r5M5pQh-P6etVMwH/view?usp=share_link/"> Załącznik do błędu DIT-7</a></p>
-<img src="C:/Users/hp/Desktop/tester/dare-it/7-tygodni-wyzwanie/4-olx/swipeto/BUGs-Jira/DIT7.PNG" style="width:747px;height:687px;">
+<img src="DIT7.PNG" style="width:747px;height:687px;">
 
 <p><b>BugID: DIT-8</p></b>
 <p><a href="https://drive.google.com/file/d/1yhvaExICpX1jf9lYDUah4pVaEJ2SrIN1/view?usp=share_link/"> Załącznik do błędu DIT-8</a></p>
-<img src="C:/Users/hp/Desktop/tester/dare-it/7-tygodni-wyzwanie/4-olx/swipeto/BUGs-Jira/DIT8.PNG" style="width:739px;height:697px;">
+<img src="DIT8.PNG" style="width:739px;height:697px;">
 
 <p><b>BugID: DIT-9</p></b>
 <p><a href="https://drive.google.com/file/d/14OkLeuvFzxqJ_ykS_mVhSYYlft8lf1JD/view?usp=share_link/"> Załącznik nr 1 do błędu DIT-9</a></p>
 <p><a href="https://drive.google.com/file/d/1LUx9FZ3qi7Iyrnoe70M3jeDD4kCzSq4W/view?usp=share_link/"> Załącznik nr 2 do błędu DIT-9</a></p>
-<img src="C:/Users/hp/Desktop/tester/dare-it/7-tygodni-wyzwanie/4-olx/swipeto/BUGs-Jira/DIT9.PNG" style="width:751px;height:681px;">
+<img src="DIT9.PNG" style="width:751px;height:681px;">
 
 <p><b>BugID: DIT-10</p></b>
 <p><a href="https://drive.google.com/file/d/1FEusBFhvVeYtlHTtjNCDqvSElL8CLu2q/view?usp=share_link/"> Załącznik nr 1 do błędu DIT-10</a></p>
 <p><a href="https://drive.google.com/file/d/1_9PCCfs9ye5S168MnsUkQDZl8ifN4W1t/view?usp=share_link/"> Załącznik nr 2 do błędu DIT-10</a></p>
-<img src="C:/Users/hp/Desktop/tester/dare-it/7-tygodni-wyzwanie/4-olx/swipeto/BUGs-Jira/DIT10.PNG" style="width:746px;height:675px;">
+<img src="DIT10.PNG" style="width:746px;height:675px;">
 
 <p><b>BugID: DIT-11</p></b>
 <p><a href="https://drive.google.com/file/d/1GLSFInjznsuvSvlPzmlt3OI1jt5GiLUg/view?usp=share_link/"> Załącznik do błędu DIT-11</a></p>
-<img src="C:/Users/hp/Desktop/tester/dare-it/7-tygodni-wyzwanie/4-olx/swipeto/BUGs-Jira/DIT11.PNG" style="width:745px;height:678px;">
+<img src="DIT11.PNG" style="width:745px;height:678px;">
 
 <h2 id="pt4">Pytania techniczne 4</h2>
 <blockquote cite="Pati">
