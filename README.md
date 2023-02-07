@@ -354,42 +354,42 @@ Jakie dostrzegasz różnice między testowaniem aplikacji internetowej, a natywn
 
 <h2 id="4sub4">Subtask 4</h2>
 <p> Przeprowadzono testy eksploracyjne aplikacji internetowej swipeto.pl. Poniżej przedstawione są zgłoszenia błędów zaraportowanych przy wykorzystaniu oprogramowania Jira.</p>
-
-<p><b>BugID: DIT-3</p></b>
+<ol>
+<li><p><b>BugID: DIT-3</p></b></li>
 <p><a href="https://drive.google.com/file/d/1lkbrPwVd183ZLqRdHtSFsbw-zLBq70-i/view?usp=share_link/"> Załącznik do błędu DIT-3</a></p>
 <img src="DIT3.PNG" style="width:759px;height:753px;">
 
-<p><b>BugID: DIT-4</p></b>
+<li><p><b>BugID: DIT-4</p></b></li>
 <p><a href="https://drive.google.com/file/d/15H0ZqCSyGn34a3lnvone6ZrqxqRDzPUj/view?usp=share_link/"> Załącznik do błędu DIT-4</a></p>
 <img src="DIT4.PNG" style="width:752px;height:733px;">
 
-<p><b>BugID: DIT-5</p></b>
+<li><p><b>BugID: DIT-5</p></b></li>
 <p><a href="https://drive.google.com/file/d/1ya_0lh76SWFwZq71fpnN1LRTAJowiNwq/view?usp=share_link/"> Załącznik do błędu DIT-5</a></p>
 <img src="DIT5.PNG" style="width:763px;height:741px;">
 
-<p><b>BugID: DIT-6</p></b>
+<li><p><b>BugID: DIT-6</p></b></li>
 <p><a href="https://drive.google.com/file/d/1cF1EbQD3XzGHiX9gZt1sftbjmIwXFzsc/view?usp=share_link/"> Załącznik do błędu DIT-6</a></p>
 <img src="DIT6.PNG" style="width:746px;height:731px;">
 
-<p><b>BugID: DIT-7</p></b>
+<li><p><b>BugID: DIT-7</p></b></li>
 <p><a href="https://drive.google.com/file/d/10jeYPtJ1FFP2-330r5M5pQh-P6etVMwH/view?usp=share_link/"> Załącznik do błędu DIT-7</a></p>
 <img src="DIT7.PNG" style="width:747px;height:687px;">
 
-<p><b>BugID: DIT-8</p></b>
+<li><p><b>BugID: DIT-8</p></b></li>
 <p><a href="https://drive.google.com/file/d/1yhvaExICpX1jf9lYDUah4pVaEJ2SrIN1/view?usp=share_link/"> Załącznik do błędu DIT-8</a></p>
 <img src="DIT8.PNG" style="width:739px;height:697px;">
 
-<p><b>BugID: DIT-9</p></b>
+<li><p><b>BugID: DIT-9</p></b></li>
 <p><a href="https://drive.google.com/file/d/14OkLeuvFzxqJ_ykS_mVhSYYlft8lf1JD/view?usp=share_link/"> Załącznik nr 1 do błędu DIT-9</a></p>
 <p><a href="https://drive.google.com/file/d/1LUx9FZ3qi7Iyrnoe70M3jeDD4kCzSq4W/view?usp=share_link/"> Załącznik nr 2 do błędu DIT-9</a></p>
 <img src="DIT9.PNG" style="width:751px;height:681px;">
 
-<p><b>BugID: DIT-10</p></b>
+<li><p><b>BugID: DIT-10</p></b></li>
 <p><a href="https://drive.google.com/file/d/1FEusBFhvVeYtlHTtjNCDqvSElL8CLu2q/view?usp=share_link/"> Załącznik nr 1 do błędu DIT-10</a></p>
 <p><a href="https://drive.google.com/file/d/1_9PCCfs9ye5S168MnsUkQDZl8ifN4W1t/view?usp=share_link/"> Załącznik nr 2 do błędu DIT-10</a></p>
 <img src="DIT10.PNG" style="width:746px;height:675px;">
 
-<p><b>BugID: DIT-11</p></b>
+<li><p><b>BugID: DIT-11</p></b></li>
 <p><a href="https://drive.google.com/file/d/1GLSFInjznsuvSvlPzmlt3OI1jt5GiLUg/view?usp=share_link/"> Załącznik do błędu DIT-11</a></p>
 <img src="DIT11.PNG" style="width:745px;height:678px;">
 
