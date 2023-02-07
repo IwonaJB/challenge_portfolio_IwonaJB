@@ -5,21 +5,28 @@
 <p>This is my portfolio based on Dare IT challenge for Manual Testers.</p>
 
 <p><b>Spis treści</p></b>
-<a href="#sub1">Task 1, Subtask 1</a><br>
-<a href="#sub3">Task 1, Subtask 3</a><br>
-<a href="#sub4">Task 1, Subtask 4</a><br>
-<a href="#fun">Funkcjonalności</a><br>
-<a href="#zas">Funkcjonalności - zastosowanie</a><br>
-<a href="#intu">Ocena intuicyjności</a><br>
-<a href="#fejs">Ocena interfejsu</a><br>
-<a href="#blad">Znalezione błędy</a><br>
-<a href="#2sub1">Task 2, Subtask 1</a><br>
-<a href="#2sub2">Task 2, Subtask 2</a><br>
-<a href="#2sub3">Task 2, Subtask 3</a><br>
-<a href="#2sub4">Task 2, Subtask 4</a><br>
-<a href="#3sub1">Task 3, Subtask 1</a><br>
-<a href="#3sub2">Task 3, Subtask 2</a><br>
-<a href="#3sub3">Task 3, Subtask 3</a><br>
+<a href="#sub1">Task 1, Subtask 1 - wynik kartkówki z wiedzy teoretycznej</a><br>
+<a href="#sub3">Task 1, Subtask 3 - o mnie!</a><br>
+<a href="#sub4">Task 1, Subtask 4 - testy eksploracyjne aplikacji internetowej Scouts Panel</a><br>
+<a href="#fun">Funkcjonalności Scouts Panel</a><br>
+<a href="#zas">Funkcjonalności Scouts Panel - zastosowanie</a><br>
+<a href="#intu">Ocena intuicyjności Scouts Panel</a><br>
+<a href="#fejs">Ocena interfejsu Scouts Panel</a><br>
+<a href="#blad">Znalezione błędy Scouts Panel</a><br>
+<a href="#pt1">Pytania techniczne 1</a><br>
+<a href="#2sub1">Task 2, Subtask 1 - przypadki testowe na podstawie User Story, aplikacja internetowa Scouts Panel</a><br>
+<a href="#2sub2">Task 2, Subtask 2 - przypadki testowe na podstawie własnych doświadczeń, aplikacja internetowa Scouts Panel</a><br>
+<a href="#2sub3">Task 2, Subtask 3 - po co pisać test case'y?</a><br>
+<a href="#2sub4">Task 2, Subtask 4 - przypadki testowe na podstawie własnych doświadczeń, aplikacja mobilna Pickeatup</a><br>
+<a href="#pt2">Pytania techniczne 2</a><br>
+<a href="#3sub1">Task 3, Subtask 1 - formatka do zgłaszania błędów</a><br>
+<a href="#3sub2">Task 3, Subtask 2 - przeprowadzone testy i raporty błędów, aplikacja internetowa Scouts Panel</a><br>
+<a href="#3sub3">Task 3, Subtask 3 - raport z testów aplikacji internetowej Scouts Panel</a><br>
+<a href="#pt3">Pytania techniczne 3</a><br>
+<a href="#4sub2">Task 4, Subtask 2 - raportowanie błędów aplikacji mobilnej OLX na podstawie testów eksploracyjnych</a><br>
+<a href="#4sub3">Task 4, Subtask 3 - aplikacja mobilna OLX z punktu widzenia użytkownika</a><br>
+<a href="#4sub4">Task 4, Subtask 4 - testy eksploracyjne aplikacji internetowej Swipeto i raportowanie błędów w Jira</a><br>
+<a href="#pt4">Pytania techniczne 4</a><br>
 
 
 <h1> TASK 1</h1>
@@ -27,7 +34,7 @@
 <p>10 punktów</p>
 
 <h2 id="sub3"> Subtask 3</h2>
-  <p>Cześć! Nazywam się <span style="color:red;"><b>Iwona</span></b>
+<p>Cześć! Nazywam się <span style="color:red;"><b>Iwona</span></b>
 , a odpowiedź na pytanie<br></p>
 <blockquote cite="Pati">
 Dlaczego zdecydował_ś się na udział w challenge portfolio?
@@ -186,6 +193,47 @@ powoduje przejście na platformę komunikacyjną slack, na której możliwy jest
 <li>podczas dodawania/edycji gracza pola w które można podać linki http do odpowiednich serwisów (np. Youtube, Facebook) nie wykrywają gdy wpisze się w nie inne wartości (dowolne znaki) - wskazane jest dodać ograniczenie umożliwiające na dodawanie linków tylko z konkretnego oznaczonego serwisu.
 </ul>
 
+<h2 id="pt1">Pytania techniczne 1</h2>
+<blockquote cite="Pati">
+Co to są testy eksploratacyjne?
+</blockquote>
+<p align="justify">Testy eksploracyjne jest to nieformalna technika testów, w której tester projektuje testy w rzeczywistym czasie wykonywania i wykorzystuje informacje zdobyte podczas testów do zaprojektowania nowych i lepszych testów.</p>
+
+<blockquote cite="Pati">
+Co należy do zadań testera oprogramowania?
+</blockquote>
+<p>Do zadań testera oprogramowania należy:
+<ul>
+<li>przegląd testów, uczestniczenie w opracowaniu testów,</li>
+<li>analizowanie specyfikacji/historyjek użytkownika/norm,</li>
+<li>identyfikowanie, dokumentowanie warunków testowych, powiązań między przypadkami testowymi,</li>
+<li>projektowanie/weryfikowanie środowisk testowych,</li>
+<li>projektowanie, implementowanie przypadków testowych,</li>
+<li>pozyskiwanie danych testowych,</li>
+<li>tworzenie harmonogramu wykonywania testów,</li>
+<li>wykonywanie testów, ocenianie rezultatów, dokumentacja odchyleń,</li>
+<li>korzystanie z narzędzi usprawniających proces testowy,</li>
+<li>automatyzowanie testowania,</li>
+<li>ewaluacja charakterystyk niefunkcjonalnych,</li>
+<li>dokonywanie przeglądu testów opracowanych przez inne osoby.</li></ul></p>
+
+<blockquote cite="Pati">
+Kim jest tester oprogramowania?
+</blockquote>
+<p align="justify">Tester oprgramowania jest to profesjonalista, wykwalifikowany w tematyce testowania oprogramowania, zaangażowany w testowanie modułu lub systemu.</p>
+
+<blockquote cite="Pati">
+Czym są odpowiedzi z serwera HTTP?
+</blockquote>
+<p align="justify">Odpowiedzi z serwera HTTP są to krótkie informacje na temat tego co się stało gdy serwer otrzymał żądanie wyświetlenia danej strony.<br>
+Dzielą się na klasy:
+<ul>
+<li><b>100: kody informacyjne</b> - żądanie zainicjowane przez przeglądarkę jest kontynuowane,</li>
+<li><b>200: kody powodzenia</b> - żądanie przeglądarki zostało pomyślnie odebrane, zrozumiane i przetworzone przez serwer,</li>
+<li><b>300: kody przekierowań</b> - nowa zawartość została zastąpiona żądanym zasobem,</li>
+<li><b>400: kody błędów klienta</b> - informacja o wystąpieniu problemu z żądaniem,</li>
+<li><b>500: kody błędów serwera</b> - żądanie została zaakceptowane, jednak błąd na serwerze uniemożliwił jego spełnienie.</li></ul></p>
+
 <h1>TASK 2</h1>
 <h2 id="2sub1">Subtask 1</h2>
 <p>Poniżej link do folderu zawierającego przypadki testowe przygotowane dla Futbol Kolektyw na podstawie historyjek użytkownika.</p>
@@ -203,9 +251,37 @@ powoduje przejście na platformę komunikacyjną slack, na której możliwy jest
 <p>Poniżej link do folderu zawierającego przypadki testowe przygotowane dla aplikacji Pick Eat Up.</p>
 <p><a href="https://docs.google.com/spreadsheets/d/1xP6OL_Vkr_Ni7DKIzA1aXGTAKYbaOh4yYyh0OSe_e8k/edit?usp=sharing/"> Task 2, Subtask 4</a></p>
 
+<h2 id="pt2">Pytania techniczne 2</h2>
+<blockquote cite="Pati">
+Co to jest Przypadek Testowy?
+</blockquote>
+<p align="justify">Przypadek testowy jest to zbiór danych wejściowych, wstępnych warunków wykonania, oczekiwanych rezultatów i końcowych warunków wykonania.<br>
+Składa się z:<br>
+<ul>
+<li>unikalnego ID,</li>
+<li>tytułu,</li>
+<li>opisu,</li>
+<li>wstępnych warunków uruchomienia,</li>
+<li>kroków do wykonania testu,</li>
+<li>oczekiwany rezultat,</li>
+<li>kryteriów akceptacji,</li>
+<li>warunków końcowych,</li>
+<li>rezultatów poszczególnych kroków testowyc,</li>
+<li>rezultatu testu</li></ul></p>
+
+<blockquote cite="Pati">
+Co to jest Test Plan?
+</blockquote>
+<p align="justify">Dokument który określa zakres, metody, zasoby i harmonogram czynności testowych.</p>
+
+<blockquote cite="Pati">
+Co to jest User Story?
+</blockquote>
+<p align="justify">User Story (historyjka użytkownika) jest to wymaganie użytkownika (lub wymaganie biznesowe) opisujące funkcjonalność potrzebną użytkownikowi, kryteria niefunkcjonalne oraz kryteria akceptacji.</p>
+
 <h1>TASK 3</h1>
 <h2 id="3sub1">Subtask 1</h2>
-<p>Poniżej znajduje się link do formatki do zgłaszania błędów, wraz z wypełnionymi zgłoszeniami błędów znalezionych podczas przeprowadzenia przypadków testowych</p>
+<p>Poniżej znajduje się link do formatki do zgłaszania błędów, wraz z wypełnionymi zgłoszeniami błędów znalezionych podczas przeprowadzenia przypadków testowych.</p>
 <p><a href="https://docs.google.com/spreadsheets/d/1l087wncJWLLnWE_pqZog_4rNZVt_KRL3eU3lW4n8byA/edit?usp=sharing/"> Task 3, Subtask 1</a></p>
 
 <h2 id="3sub2">Subtask 2</h2>
@@ -216,6 +292,128 @@ powoduje przejście na platformę komunikacyjną slack, na której możliwy jest
 <h2 id="3sub3">Subtask 3</h2>
 <p>Poniżej znajduje się link do raportu z przeprowadzonych testów.</p>
 <p><a href="https://docs.google.com/document/d/1WNEOv0CW_6bvpibhSyLCc06Yaz97DF9rhgn-2n_ft1I/edit?usp=sharing/"> Task 3, Subtask 3</a></p>
+
+<h2 id="pt3">Pytania techniczne 3</h2>
+<blockquote cite="Pati">
+Co to jest błąd?
+</blockquote>
+<p align="justify">Jest to działanie człowieka które powoduje powstanie nieprawidłowego rezultatu (innego niż oczekiwany, sprecyzowany w specyfikacji).</p>
+
+<blockquote cite="Pati">
+Podaj elementy zgłoszenia błędu.
+</blockquote>
+<p align="justify">Na zgłoszenie błędu składa się kilka istotnych części takich jak:
+<ul>
+<li>ID błędu,</li>
+<li>Tytuł,</li>
+<li>Środowisko,</li>
+<li>Numer wersji (jeśli dotyczy np. aplikacji mobilnych),</li>
+<li>Warunki wstępne,</li>
+<li>Kroki do reprodukcji błędu,</li>
+<li>Oczekiwane rezultaty,</li>
+<li>Uzyskane rezultaty,</li>
+<li>Data i czas wystąpienia błędu,</li>
+<li>Priorytet,</li>
+<li>Powaga błędu (Severity).</li></ul></p>
+
+<blockquote cite="Pati">
+Co to jest awaria?
+</blockquote>
+<p align="justify">Awaria wynika z ciągu przyczynowo-skutkowego którego początkiem może być człowiek który popełni błąd. Konsekwencją błędu może być defekt który może pojawić się w oprogramowaniu. Po uruchomieniu oprogramowania z defektem może wystąpić awaria (nieprzewidziane zachowanie programu).</p>
+
+<h1>TASK 4</h1>
+<h2 id="4sub2">Subtask 2</h2>
+<p> Poniżej znajduje się link do formatki zgłaszania błędów aplikacji mobilnej OLX wraz ze zgłoszeniem błędów odnalezionych podczas testów eksploracyjnych.</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1No__8kVkbKFYiFj8oYCdL2dfZMVTZBFDZUO_ZVbYZeo/edit?usp=share_link/"> Task 4, Subtask 2</a></p>
+
+<h2 id="4sub3">Subtask 3</h2>
+<blockquote cite="Pati">
+Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+</blockquote>
+<p>Aplikacja służy do sprzedaży, wynajmu lub oddania za darmo rzeczy materialnych lub usług. Jej celem jest umożliwienie użytkownikowi wyszukanie przedmiotu poszukiwań również z uwzględnieniem lokalizacji, tak by użytkownik mógł umówić się na odbiór osobisty, obejrzenie przedmiotu, czy zaoferowanie usług na danym obszarze.</p>
+
+<blockquote cite="Pati">
+Kto ma być użytkownikiem końcowym aplikacji?
+</blockquote>
+<p>Użytkownikiem końcowym aplikacji są dwie grupy: oferujący i szukający/kupujący. Oferujący dzięki serwisowi mają możliwość zaofereowania swoich usług lub dóbr materialnych, szukający/kupujący mogą te rzeczy nabyć/obejrzeć i skontaktować się z oferującym.</p>
+
+<blockquote cite="Pati">
+Czy według Ciebie aplikacja jest User friendly?
+</blockquote>
+<p>W moim odczuciu aplikacja jest User friendly, jednak zdarzają się w niej pewnie niedogodności użytkowania które w moim odczuciu należy naprawić. Wygląd przycisków, filtry, podział na kategorie - to wszystko jest czytelne i umeiszczone w wygodnych miejscach. Możliwość przeglądania zdjęć przypisanych do oferty bez konieczności wchodzenia w ofertę jest bardzo przydatną i pożądaną funkcją. Niestety z przeglądaniem zdjęć wiążą się również problemy. Jednym z nich jest konieczność idealnego wstrzelenia się w długość przesuwania kciukiem zdjęcia - zbyt krótki ruch nie zmieni zdjęcia i może to powodować frustrację użytkownika. Natomiast po wejściu w ofertę i przeglądając tam zdjęcia (bez ich dodatkowego otwierania) kiedy użytkownik dojdzie do ostatniego zdjęcia i znów wykona ruch mający na celu zmianę zdjęcia nastąpi zmiana oferty. Sądzę, że niektórzy z użytkowników mogą nie zauważać zmiany, co może powodować zamieszanie i wprowadzać niejasności poprzez podejmowania decyzji o kupnie.</p>
+
+<blockquote cite="Pati">
+Jak byś usprawnił aplikację? Co byś w niej poprawił? Czy masz pomysł na dodatkową funkcjonalność?
+</blockquote>
+<p>Moim zdaniem naprawić należy zmianę zdjęć bezpośrednio w ofercie - po obejrzeniu ostatniego zdjęcia powinny wyświetlać się od początku, nie powinna następować zmiana oferty. Jeżeli chodzi o nową funkcjonalność to sądzę że pomocna byałby możliwość ustawiania zasięgu od ustawionego przez użytkownika miejsca lecz nie tylko jako promień wokół tego punktu. Wydaje mi się, że szczególnie podczas wyszukiwania nieruchomości bardzo przydałaby się funkcjonalność w której użytkownik mógłby zaznaczyć na mapie obszar który go interesuje oraz miejscowości które interesują użytkownika w pierwszej kolejności.</p>
+
+<blockquote cite="Pati">
+Jakie dostrzegasz różnice między testowaniem aplikacji internetowej, a natywnej?
+</blockquote>
+<p>Sądzę, że największą różnicą podczas testowania aplikacji internetowej i natywnej jest sposób przedstawienie informacji. W aplikacji natywnej produkt nastawiony jest na fakt, iż będzie użytkowany z telefonu komórkowego w związku z czym rozmieszczenie istotnych przycisków, wyświetlanie informacji czy wyszukiwanie musi być rozmieszczone w widocznych miejscach które umożliwią wygodną obsługę telefonu. W związku z tym aplikacja natywna skupia się na przedstawieniu paska menu z najważniejszymi opcjami w zakrsie wygodnego sięgania kciówków użytkowników, natmoast aplikacja internetowa ma na tym polu większą swobodę (obserwując aplikacje internetowe można stwierdzić, że menu najczęściej znajduje się na pasku górnym, lub z lewej strony ekranu).</p>
+
+<h2 id="4sub4">Subtask 4</h2>
+<p> Przeprowadzono testy eksploracyjne aplikacji internetowej swipeto.pl. Poniżej przedstawione są zgłoszenia błędów zaraportowanych przy wykorzystaniu oprogramowania Jira.</p>
+
+<p><b>BugID: DIT-3</p></b>
+<p><a href="https://drive.google.com/file/d/1lkbrPwVd183ZLqRdHtSFsbw-zLBq70-i/view?usp=share_link/"> Załącznik do błędu DIT-3</a></p>
+<img src="C:/Users/hp/Desktop/tester/dare-it/7-tygodni-wyzwanie/4-olx/swipeto/BUGs-Jira/DIT3.PNG" style="width:759px;height:753px;">
+
+<p><b>BugID: DIT-4</p></b>
+<p><a href="https://drive.google.com/file/d/15H0ZqCSyGn34a3lnvone6ZrqxqRDzPUj/view?usp=share_link/"> Załącznik do błędu DIT-4</a></p>
+<img src="C:/Users/hp/Desktop/tester/dare-it/7-tygodni-wyzwanie/4-olx/swipeto/BUGs-Jira/DIT4.PNG" style="width:752px;height:733px;">
+
+<p><b>BugID: DIT-5</p></b>
+<p><a href="https://drive.google.com/file/d/1ya_0lh76SWFwZq71fpnN1LRTAJowiNwq/view?usp=share_link/"> Załącznik do błędu DIT-5</a></p>
+<img src="C:/Users/hp/Desktop/tester/dare-it/7-tygodni-wyzwanie/4-olx/swipeto/BUGs-Jira/DIT5.PNG" style="width:763px;height:741px;">
+
+<p><b>BugID: DIT-6</p></b>
+<p><a href="https://drive.google.com/file/d/1cF1EbQD3XzGHiX9gZt1sftbjmIwXFzsc/view?usp=share_link/"> Załącznik do błędu DIT-6</a></p>
+<img src="C:/Users/hp/Desktop/tester/dare-it/7-tygodni-wyzwanie/4-olx/swipeto/BUGs-Jira/DIT6.PNG" style="width:746px;height:731px;">
+
+<p><b>BugID: DIT-7</p></b>
+<p><a href="https://drive.google.com/file/d/10jeYPtJ1FFP2-330r5M5pQh-P6etVMwH/view?usp=share_link/"> Załącznik do błędu DIT-7</a></p>
+<img src="C:/Users/hp/Desktop/tester/dare-it/7-tygodni-wyzwanie/4-olx/swipeto/BUGs-Jira/DIT7.PNG" style="width:747px;height:687px;">
+
+<p><b>BugID: DIT-8</p></b>
+<p><a href="https://drive.google.com/file/d/1yhvaExICpX1jf9lYDUah4pVaEJ2SrIN1/view?usp=share_link/"> Załącznik do błędu DIT-8</a></p>
+<img src="C:/Users/hp/Desktop/tester/dare-it/7-tygodni-wyzwanie/4-olx/swipeto/BUGs-Jira/DIT8.PNG" style="width:739px;height:697px;">
+
+<p><b>BugID: DIT-9</p></b>
+<p><a href="https://drive.google.com/file/d/14OkLeuvFzxqJ_ykS_mVhSYYlft8lf1JD/view?usp=share_link/"> Załącznik nr 1 do błędu DIT-9</a></p>
+<p><a href="https://drive.google.com/file/d/1LUx9FZ3qi7Iyrnoe70M3jeDD4kCzSq4W/view?usp=share_link/"> Załącznik nr 2 do błędu DIT-9</a></p>
+<img src="C:/Users/hp/Desktop/tester/dare-it/7-tygodni-wyzwanie/4-olx/swipeto/BUGs-Jira/DIT9.PNG" style="width:751px;height:681px;">
+
+<p><b>BugID: DIT-10</p></b>
+<p><a href="https://drive.google.com/file/d/1FEusBFhvVeYtlHTtjNCDqvSElL8CLu2q/view?usp=share_link/"> Załącznik nr 1 do błędu DIT-10</a></p>
+<p><a href="https://drive.google.com/file/d/1_9PCCfs9ye5S168MnsUkQDZl8ifN4W1t/view?usp=share_link/"> Załącznik nr 2 do błędu DIT-10</a></p>
+<img src="C:/Users/hp/Desktop/tester/dare-it/7-tygodni-wyzwanie/4-olx/swipeto/BUGs-Jira/DIT10.PNG" style="width:746px;height:675px;">
+
+<p><b>BugID: DIT-11</p></b>
+<p><a href="https://drive.google.com/file/d/1GLSFInjznsuvSvlPzmlt3OI1jt5GiLUg/view?usp=share_link/"> Załącznik do błędu DIT-11</a></p>
+<img src="C:/Users/hp/Desktop/tester/dare-it/7-tygodni-wyzwanie/4-olx/swipeto/BUGs-Jira/DIT11.PNG" style="width:745px;height:678px;">
+
+<h2 id="pt4">Pytania techniczne 4</h2>
+<blockquote cite="Pati">
+Co to jest analiza wartości brzegowych?
+</blockquote>
+<p align="justify">Jest to czarnoskrzynkowa technika projektowania przypadków testowych. Przypadki testowe projektowane są w oparciu o wartości brzegowe.</p>
+
+<blockquote cite="Pati">
+Co to są klasy równoważności?
+</blockquote>
+<p align="justify">Klasy równoważności są to podzbiory (grupy) danych wejściowych (lub wyjściowych), dla których zakłada się, że zachowanie modułu lub systemu jest takie samo.</p>
+
+<blockquote cite="Pati">
+Co to jest testowanie czarnoskrzynkowe?
+</blockquote>
+<p align="justify">Testowanie czarnoskrzynkowe polega na definiowaniu warunków testowych/przypadków testowych na podstawie analizy podstanowywch dokumentów opisujących atrybuty funkcjonalne lub/i niefunkcjonalne. Techniki czarnoskrzynkowe nieodwołują się do wewnętrznej struktury oprogramowania, czyli następuje analiza zewnętrznych interfejsów.</p>
+
+<blockquote cite="Pati">
+Co to jest testowanie białoskrzynkowe?
+</blockquote>
+<p align="justify">Testowanie białoskrzynkowe oparte jest na analizie wewnętrznej struktury komponentu lub systemu (oparte na informacjach o kodzie, architekturze systemu).</p>
+
 
 </body>
 </html>
