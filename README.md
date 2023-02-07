@@ -357,7 +357,7 @@ Jakie dostrzegasz różnice między testowaniem aplikacji internetowej, a natywn
 
 <p><b>BugID: DIT-3</p></b>
 <p><a href="https://drive.google.com/file/d/1lkbrPwVd183ZLqRdHtSFsbw-zLBq70-i/view?usp=share_link/"> Załącznik do błędu DIT-3</a></p>
-<img src="C:/Users/hp/Desktop/tester/dare-it/7-tygodni-wyzwanie/4-olx/swipeto/BUGs-Jira/DIT3.PNG" style="width:759px;height:753px;">
+<img src="DIT3.PNG" style="width:759px;height:753px;">
 
 <p><b>BugID: DIT-4</p></b>
 <p><a href="https://drive.google.com/file/d/15H0ZqCSyGn34a3lnvone6ZrqxqRDzPUj/view?usp=share_link/"> Załącznik do błędu DIT-4</a></p>
