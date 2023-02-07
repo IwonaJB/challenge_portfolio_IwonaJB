@@ -218,7 +218,7 @@ powoduje przejście na platformę komunikacyjną slack, na której możliwy jest
 <p><a href="https://docs.google.com/document/d/1WNEOv0CW_6bvpibhSyLCc06Yaz97DF9rhgn-2n_ft1I/edit?usp=sharing/"> Task 3, Subtask 3</a></p>
 
 <p><b>BugID: DIT-3</p></b>
-<img scr="/DIT3.PNG" style="width:1200px;height:1750px;">
+<img scr="obrazy/DIT3.PNG" style="width:1200px;height:1750px;">
 
 </body>
 </html>
