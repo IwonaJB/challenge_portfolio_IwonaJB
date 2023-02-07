@@ -330,34 +330,34 @@ Co to jest awaria?
 <blockquote cite="Pati">
 Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
 </blockquote>
-<p>Aplikacja służy do sprzedaży, wynajmu lub oddania za darmo rzeczy materialnych lub usług. Jej celem jest umożliwienie użytkownikowi wyszukanie przedmiotu poszukiwań również z uwzględnieniem lokalizacji, tak by użytkownik mógł umówić się na odbiór osobisty, obejrzenie przedmiotu, czy zaoferowanie usług na danym obszarze.</p>
+<p align="justify">Aplikacja służy do sprzedaży, wynajmu lub oddania za darmo rzeczy materialnych lub usług. Jej celem jest umożliwienie użytkownikowi wyszukanie przedmiotu poszukiwań również z uwzględnieniem lokalizacji, tak by użytkownik mógł umówić się na odbiór osobisty, obejrzenie przedmiotu, czy zaoferowanie usług na danym obszarze.</p>
 
 <blockquote cite="Pati">
 Kto ma być użytkownikiem końcowym aplikacji?
 </blockquote>
-<p>Użytkownikiem końcowym aplikacji są dwie grupy: oferujący i szukający/kupujący. Oferujący dzięki serwisowi mają możliwość zaofereowania swoich usług lub dóbr materialnych, szukający/kupujący mogą te rzeczy nabyć/obejrzeć i skontaktować się z oferującym.</p>
+<p align="justify">Użytkownikiem końcowym aplikacji są dwie grupy: oferujący i szukający/kupujący. Oferujący dzięki serwisowi mają możliwość zaofereowania swoich usług lub dóbr materialnych, szukający/kupujący mogą te rzeczy nabyć/obejrzeć i skontaktować się z oferującym.</p>
 
 <blockquote cite="Pati">
 Czy według Ciebie aplikacja jest User friendly?
 </blockquote>
-<p>W moim odczuciu aplikacja jest User friendly, jednak zdarzają się w niej pewnie niedogodności użytkowania które w moim odczuciu należy naprawić. Wygląd przycisków, filtry, podział na kategorie - to wszystko jest czytelne i umeiszczone w wygodnych miejscach. Możliwość przeglądania zdjęć przypisanych do oferty bez konieczności wchodzenia w ofertę jest bardzo przydatną i pożądaną funkcją. Niestety z przeglądaniem zdjęć wiążą się również problemy. Jednym z nich jest konieczność idealnego wstrzelenia się w długość przesuwania kciukiem zdjęcia - zbyt krótki ruch nie zmieni zdjęcia i może to powodować frustrację użytkownika. Natomiast po wejściu w ofertę i przeglądając tam zdjęcia (bez ich dodatkowego otwierania) kiedy użytkownik dojdzie do ostatniego zdjęcia i znów wykona ruch mający na celu zmianę zdjęcia nastąpi zmiana oferty. Sądzę, że niektórzy z użytkowników mogą nie zauważać zmiany, co może powodować zamieszanie i wprowadzać niejasności poprzez podejmowania decyzji o kupnie.</p>
+<p align="justify">W moim odczuciu aplikacja jest User friendly, jednak zdarzają się w niej pewnie niedogodności użytkowania które w moim odczuciu należy naprawić. Wygląd przycisków, filtry, podział na kategorie - to wszystko jest czytelne i umeiszczone w wygodnych miejscach. Możliwość przeglądania zdjęć przypisanych do oferty bez konieczności wchodzenia w ofertę jest bardzo przydatną i pożądaną funkcją. Niestety z przeglądaniem zdjęć wiążą się również problemy. Jednym z nich jest konieczność idealnego wstrzelenia się w długość przesuwania kciukiem zdjęcia - zbyt krótki ruch nie zmieni zdjęcia i może to powodować frustrację użytkownika. Natomiast po wejściu w ofertę i przeglądając tam zdjęcia (bez ich dodatkowego otwierania) kiedy użytkownik dojdzie do ostatniego zdjęcia i znów wykona ruch mający na celu zmianę zdjęcia nastąpi zmiana oferty. Sądzę, że niektórzy z użytkowników mogą nie zauważać zmiany, co może powodować zamieszanie i wprowadzać niejasności poprzez podejmowania decyzji o kupnie.</p>
 
 <blockquote cite="Pati">
 Jak byś usprawnił aplikację? Co byś w niej poprawił? Czy masz pomysł na dodatkową funkcjonalność?
 </blockquote>
-<p>Moim zdaniem naprawić należy zmianę zdjęć bezpośrednio w ofercie - po obejrzeniu ostatniego zdjęcia powinny wyświetlać się od początku, nie powinna następować zmiana oferty. Jeżeli chodzi o nową funkcjonalność to sądzę że pomocna byałby możliwość ustawiania zasięgu od ustawionego przez użytkownika miejsca lecz nie tylko jako promień wokół tego punktu. Wydaje mi się, że szczególnie podczas wyszukiwania nieruchomości bardzo przydałaby się funkcjonalność w której użytkownik mógłby zaznaczyć na mapie obszar który go interesuje oraz miejscowości które interesują użytkownika w pierwszej kolejności.</p>
+<p align="justify">Moim zdaniem naprawić należy zmianę zdjęć bezpośrednio w ofercie - po obejrzeniu ostatniego zdjęcia powinny wyświetlać się od początku, nie powinna następować zmiana oferty. Jeżeli chodzi o nową funkcjonalność to sądzę że pomocna byałby możliwość ustawiania zasięgu od ustawionego przez użytkownika miejsca lecz nie tylko jako promień wokół tego punktu. Wydaje mi się, że szczególnie podczas wyszukiwania nieruchomości bardzo przydałaby się funkcjonalność w której użytkownik mógłby zaznaczyć na mapie obszar który go interesuje oraz miejscowości które interesują użytkownika w pierwszej kolejności.</p>
 
 <blockquote cite="Pati">
 Jakie dostrzegasz różnice między testowaniem aplikacji internetowej, a natywnej?
 </blockquote>
-<p>Sądzę, że największą różnicą podczas testowania aplikacji internetowej i natywnej jest sposób przedstawienie informacji. W aplikacji natywnej produkt nastawiony jest na fakt, iż będzie użytkowany z telefonu komórkowego w związku z czym rozmieszczenie istotnych przycisków, wyświetlanie informacji czy wyszukiwanie musi być rozmieszczone w widocznych miejscach które umożliwią wygodną obsługę telefonu. W związku z tym aplikacja natywna skupia się na przedstawieniu paska menu z najważniejszymi opcjami w zakrsie wygodnego sięgania kciówków użytkowników, natmoast aplikacja internetowa ma na tym polu większą swobodę (obserwując aplikacje internetowe można stwierdzić, że menu najczęściej znajduje się na pasku górnym, lub z lewej strony ekranu).</p>
+<p align="justify">Sądzę, że największą różnicą podczas testowania aplikacji internetowej i natywnej jest sposób przedstawienie informacji. W aplikacji natywnej produkt nastawiony jest na fakt, iż będzie użytkowany z telefonu komórkowego w związku z czym rozmieszczenie istotnych przycisków, wyświetlanie informacji czy wyszukiwanie musi być rozmieszczone w widocznych miejscach które umożliwią wygodną obsługę telefonu. W związku z tym aplikacja natywna skupia się na przedstawieniu paska menu z najważniejszymi opcjami w zakrsie wygodnego sięgania kciówków użytkowników, natmoast aplikacja internetowa ma na tym polu większą swobodę (obserwując aplikacje internetowe można stwierdzić, że menu najczęściej znajduje się na pasku górnym, lub z lewej strony ekranu).</p>
 
 <h2 id="4sub4">Subtask 4</h2>
 <p> Przeprowadzono testy eksploracyjne aplikacji internetowej swipeto.pl. Poniżej przedstawione są zgłoszenia błędów zaraportowanych przy wykorzystaniu oprogramowania Jira.</p>
 
 <p><b>BugID: DIT-3</p></b>
 <p><a href="https://drive.google.com/file/d/1lkbrPwVd183ZLqRdHtSFsbw-zLBq70-i/view?usp=share_link/"> Załącznik do błędu DIT-3</a></p>
-<img src="C:/Users/hp/Desktop/tester/dare-it/7-tygodni-wyzwanie/4-olx/swipeto/BUGs-Jira/DIT3.png" style="width:759px;height:753px;">
+<img src="C:/Users/hp/Desktop/tester/dare-it/7-tygodni-wyzwanie/4-olx/swipeto/BUGs-Jira/DIT3.PNG" style="width:759px;height:753px;">
 
 <p><b>BugID: DIT-4</p></b>
 <p><a href="https://drive.google.com/file/d/15H0ZqCSyGn34a3lnvone6ZrqxqRDzPUj/view?usp=share_link/"> Załącznik do błędu DIT-4</a></p>
