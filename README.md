@@ -392,6 +392,7 @@ Jakie dostrzegasz różnice między testowaniem aplikacji internetowej, a natywn
 <li><p><b>BugID: DIT-11</p></b></li>
 <p><a href="https://drive.google.com/file/d/1GLSFInjznsuvSvlPzmlt3OI1jt5GiLUg/view?usp=share_link/"> Załącznik do błędu DIT-11</a></p>
 <img src="DIT11.PNG" style="width:745px;height:678px;">
+</ol>
 
 <h2 id="pt4">Pytania techniczne 4</h2>
 <blockquote cite="Pati">
