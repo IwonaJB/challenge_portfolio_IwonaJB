@@ -27,7 +27,8 @@
 <a href="#4sub3">Task 4, Subtask 3 - aplikacja mobilna OLX z punktu widzenia użytkownika</a><br>
 <a href="#4sub4">Task 4, Subtask 4 - testy eksploracyjne aplikacji internetowej Swipeto i raportowanie błędów w Jira</a><br>
 <a href="#pt4">Pytania techniczne 4</a><br>
-
+<a href="#5sub1">Task 5, Subtask 1 - opanowane operatory SQL</a><br>
+<a href="#5sub3">Task 5, Subtask 3 - opowiedzi na pytania przy wykorzystaniu SQL</a><br>
 
 <h1> TASK 1</h1>
 <h2 id="sub1"> Subtask 1</h2>
@@ -414,6 +415,95 @@ Co to jest testowanie czarnoskrzynkowe?
 Co to jest testowanie białoskrzynkowe?
 </blockquote>
 <p align="justify">Testowanie białoskrzynkowe oparte jest na analizie wewnętrznej struktury komponentu lub systemu (oparte na informacjach o kodzie, architekturze systemu).</p>
+
+<h1>TASK 5</h1>
+<h2 id="5sub1">Subtask 1</h2>
+<p> Poniżej wymienione są operatory SQL z którymi się zapoznałam:
+<ul>
+<li>Select,</li>
+<li>Select Distinct,</li>
+<li>Where,</li>
+<li>And, Or, Not,</li>
+<li>Order By,</li>
+<li>Insert Into,</li>
+<li>Null Values,<li>
+<li>Update,</li>
+<li>Delete,</li>
+<li>Select Top,<li>
+<li>Min, Max,</li>
+<li>Count, Avg, Sum,</li>
+<li>Like,</li>
+<li>Wildcard characters,</li>
+<li>In,</li>
+<li>Between,</li>
+<li>Aliases,</li>
+<li>Joins (Inner, Left, Right, Full).</li>
+</ul></p>
+
+<h2 id="5sub3">Subtask 3</h2>
+<p align="justify">Poniżej znajdują się moje odpowiedzi z wykorzystaniem SQL na pytania dotyczące otrzymanej bazy danych.</p>
+
+<ol>
+<li><blockquote cite="Pati">
+Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+</blockquote></li>
+<p><b>SQL code:</b>select * from actors order by surname asc;</p>
+<img src="SQL1.PNG" style="width:248px;height:297px;">
+
+<li><blockquote cite="Pati">
+Wyświetl film, który powstał w 2019 roku.
+</blockquote></li>
+<p><b>SQL code:</b>select * from movies where year_of_production='2019';</p>
+<img src="SQL2.PNG" style="width:310px;height:70px;">
+
+<li><blockquote cite="Pati">
+Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+</blockquote></li>
+<p><b>SQL code:</b>select * from movies where year_of_production between '1990' and '1999';</p>
+<img src="SQL3.PNG" style="width:318px;height:66px;">
+
+<li><blockquote cite="Pati">
+Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+</blockquote></li>
+<p><b>SQL code:</b>select title, price from movies where price<7;</p>
+<img src="SQL4.PNG" style="width:283px;height:176px;">
+
+<li><blockquote cite="Pati">
+Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+</blockquote></li>
+<p><b>SQL code:</b>select * from actors where actor_id >=4 and actor_id<=7;</p>
+<img src="SQL5.PNG" style="width:232px;height:154px;">
+
+<li><blockquote cite="Pati">
+Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+</blockquote></li>
+<p><b>SQL code:</b>select * from customers where customer_id%2=0;</p>
+<img src="SQL6.PNG" style="width:345px;height:122px;">
+
+<li><blockquote cite="Pati">
+Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+</blockquote></li>
+<p><b>SQL code:</b>select * from customers where customer_id in (1,3,5);</p>
+<img src="SQL7.PNG" style="width:333px;height:121px;">
+
+<li><blockquote cite="Pati">
+Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+</blockquote></li>
+<p><b>SQL code:</b>select * from actors where name like 'An%';</p>
+<img src="SQL8.PNG" style="width:212px;height:91px;">
+
+<li><blockquote cite="Pati">
+Wyświetl dane klienta, który nie ma podanego adresu email.
+</blockquote></li>
+<p><b>SQL code:</b>select * from customers where email is null;</p>
+<img src="SQL9.PNG" style="width:280px;height:60px;">
+
+<li><blockquote cite="Pati">
+Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+</blockquote></li>
+<p><b>SQL code:</b>select * from movies where price >9 and movie_id between 2 and 8;</p>
+<img src="SQL10.PNG" style="width:350px;height:120px;">
+</ol>
 
 
 </body>
