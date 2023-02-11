@@ -426,10 +426,10 @@ Co to jest testowanie białoskrzynkowe?
 <li>And, Or, Not,</li>
 <li>Order By,</li>
 <li>Insert Into,</li>
-<li>Null Values,<li>
+<li>Null Values,</li>
 <li>Update,</li>
 <li>Delete,</li>
-<li>Select Top,<li>
+<li>Select Top,</li>
 <li>Min, Max,</li>
 <li>Count, Avg, Sum,</li>
 <li>Like,</li>
