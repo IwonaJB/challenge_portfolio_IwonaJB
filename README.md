@@ -29,6 +29,7 @@
 <a href="#pt4">Pytania techniczne 4</a><br>
 <a href="#5sub1">Task 5, Subtask 1 - opanowane operatory SQL</a><br>
 <a href="#5sub3">Task 5, Subtask 3 - opowiedzi na pytania przy wykorzystaniu SQL</a><br>
+<a href="#pt5">Pytania techniczne 5</a><br>
 
 <h1> TASK 1</h1>
 <h2 id="sub1"> Subtask 1</h2>
@@ -505,6 +506,21 @@ Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści 
 <img src="SQL10.PNG" style="width:350px;height:120px;">
 </ol>
 
+<h2 id="pt5">Pytania techniczne 5</h2>
+<blockquote cite="Pati">
+Co to jest SQL?
+</blockquote>
+<p align="justify">SQL jest to strukturalny język zapytań, służący do tworzenia i modyfikowania relacyjnych baz danych. Służy również do umieszczania i pobierania danych z baz danych.</p>
+
+<blockquote cite="Pati">
+Co robi SELECT w zapytaniach SQLowych?
+</blockquote>
+<p align="justify">SELECT służy do pobrania danych z bazy danych i przedstawieniu ich w postaci tabeli.</p>
+
+<blockquote cite="Pati">
+Co robi * postawiona za SELECTem w zapytaniach SQLowych?
+</blockquote>
+<p align="justify">Postawiona za SELECTem * służy do zaznaczenia, iż z wybranej bazy mają zostać wyświetlone wszystkie znajdujące się tabele.</p>
 
 </body>
 </html>
